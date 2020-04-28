@@ -37,7 +37,7 @@ Here are the features I'll be collecting, and an explanation of why:
 * Total severe infection deficiencies (NATIONAL AVERAGE: 0.01)	
 * Total respiratory deficiencies (NATIONAL AVERAGE: 0.25)	
 * Total vaccination deficiencies (NATIONAL AVERAGE: 0.12)	
-* Provider SSA County	
+	
 	
 
 	
